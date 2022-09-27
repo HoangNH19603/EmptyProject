@@ -1,0 +1,3 @@
+/home/parrot/Documents/Project/EmptyProject/cmake-build-debug/CMakeFiles/EmptyProject.dir
+/home/parrot/Documents/Project/EmptyProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parrot/Documents/Project/EmptyProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
